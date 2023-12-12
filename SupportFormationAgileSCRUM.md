@@ -442,6 +442,37 @@ Réunion pour réfléchir sur le sprint et trouver des moyens d'améliorer.
 
 
 
+## Les Outils  Scrum / Visualisation 
+
+| Outil | Usage | Exemple | Explication |
+|---|---|---|---|
+| **Burndown Chart** | Visualise l'avancement du travail au fil du temps. | L'équipe de développement utilise un Burndown Chart pour suivre la progression de l'objectif du Sprint. Le graphique montre la quantité de travail restante à effectuer sur l'objectif du Sprint au fil du temps. Si la courbe du graphique descend en dessous de l'objectif du Sprint, l'équipe de développement peut prendre des mesures pour rattraper son retard. |
+
+**Le Burndown Chart est un outil de visualisation simple mais puissant qui peut aider les équipes Scrum à rester sur la bonne voie. Il est facile à comprendre et à interpréter, ce qui en fait un excellent outil pour la communication avec les parties prenantes.**
+
+| Outil | Usage | Exemple | Explication |
+|---|---|---|---|
+| **Velocity** | Mesure la quantité de travail terminée par l'équipe au cours d'un sprint. | L'équipe de développement utilise la Velocity pour estimer la quantité de travail qu'elle peut terminer dans un sprint. La Velocity est calculée en additionnant le nombre de points d'effort des tâches terminées au cours des sprints précédents. L'équipe de développement utilise la Velocity pour déterminer combien de travail elle peut s'engager à terminer dans le prochain sprint. |
+
+**La Velocity est un outil important pour les équipes Scrum car elle permet à l'équipe de prévoir la quantité de travail qu'elle peut terminer dans un sprint. Cela aide l'équipe à planifier de manière réaliste et à éviter de s'engager dans trop de travail.**
+
+
+| Outil | Usage | Exemple | Explication |
+|---|---|---|---|
+| **Kanban Board** | Visualise le flux de travail en cours. | L'équipe de développement utilise un Kanban Board pour suivre le statut des tâches. Le tableau est divisé en colonnes représentant les différentes étapes du processus. Les tâches sont déplacées d'une colonne à l'autre à mesure qu'elles progressent dans le processus. Le Kanban Board permet à l'équipe de développement de visualiser le flux de travail et d'identifier les tâches qui sont bloquées ou retardées. |
+
+**Le Kanban Board est un outil flexible qui peut être utilisé pour visualiser une variété de processus. Il est facile à comprendre et à interpréter, ce qui en fait un excellent outil pour la communication avec les parties prenantes.**
+
+| Outil | Usage | Exemple | Explication |
+|---|---|---|---|
+| **Scrum Poker** | Outil de prise de décision basé sur l'estimation. | L'équipe de développement utilise Scrum Poker pour estimer la quantité de travail nécessaire pour terminer les tâches. Les membres de l'équipe utilisent des cartes avec des valeurs différentes pour voter sur l'estimation d'une tâche. Cela permet à l'équipe de parvenir à une estimation consensuelle. |
+
+**Scrum Poker est un outil simple et efficace qui peut aider les équipes Scrum à parvenir à des estimations précises. Il est facile à utiliser et peut être adapté à différentes équipes et projets.**
+
+**En conclusion, les outils de visualisation sont des outils essentiels pour les équipes Scrum. Ils peuvent aider les équipes à visualiser leur travail, à mesurer leur progrès et à identifier les domaines d'amélioration.**
+
+Ce code peut être personnalisé en fonction des besoins spécifiques de chaque équipe. Par exemple, vous pouvez ajouter des colonnes supplémentaires pour fournir plus d'informations sur chaque outil, ou vous pouvez modifier la mise en forme du tableau pour le rendre plus lisible.
+
 
 ## Session 5: Pratiques Agiles et Techniques de Gestion
 
