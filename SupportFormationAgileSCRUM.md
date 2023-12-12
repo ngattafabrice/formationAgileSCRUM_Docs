@@ -2,6 +2,7 @@
 
 ## Date et Lieu
 
+
 Formation sur 2 jours
 
 - **Date: du 13 au 14 Décembre 2023**
@@ -389,7 +390,7 @@ L'**Équipe de Développement** est auto-organisée et pluridisciplinaire, trava
 **Product Backlog:**
 Liste priorisée de toutes les fonctionnalités à ajouter au produit.
 
-*Sprint Backlog:*
+**Sprint Backlog:**
 Liste des tâches à accomplir pendant le sprint pour atteindre les objectifs du sprint.
 
 **Increment:**
@@ -413,7 +414,7 @@ Version du produit qui est prête à être livrée à la fin de chaque sprint.
 
 Période de travail d'un mois maximum où une version potentiellement utilisable du produit est créée.
 
-*Sprint Planning:* Réunion où l'équipe planifie le travail à réaliser pendant le sprint.
+**Sprint Planning:** Réunion où l'équipe planifie le travail à réaliser pendant le sprint.
 
 **Daily Standup:** Réunion quotidienne de l'équipe pour discuter des progrès et des obstacles.
 
@@ -429,6 +430,17 @@ Réunion pour réfléchir sur le sprint et trouver des moyens d'améliorer.
 - **Daily Scrum :** Une réunion quotidienne de 15 minutes où l'équipe se synchronise sur les tâches accomplies, les obstacles rencontrés et les plans pour la journée.
 - **Sprint Review :** Une réunion à la fin du Sprint où l'équipe présente l'Increment aux parties prenantes et recueille des feedbacks.
 - **Sprint Retrospective :** Une réunion à la fin du Sprint où l'équipe réfléchit sur le Sprint passé, identifie ce qui a bien fonctionné et ce qui peut être amélioré, afin d'ajuster ses pratiques pour le Sprint suivant.
+
+  # Événements Scrum
+
+| Événement | Durée | Fréquence | Explication | Exemple |
+|---|---|---|---|---|
+| **Sprint Planning** | 2 à 8 heures | Une fois par sprint | L'équipe Scrum se réunit pour planifier le travail à réaliser pendant le sprint. Le Product Owner présente le Product Backlog, l'équipe de développement estime le travail et l'équipe s'engage à réaliser un objectif réalisable pour le sprint. | L'équipe Scrum décide de développer trois fonctionnalités du produit au cours du sprint. |
+| **Daily Scrum** | 15 minutes | Chaque jour | L'équipe Scrum se réunit pour discuter de son progrès et identifier les obstacles. | L'équipe de développement discute des tâches qu'elle a accomplies la veille, des tâches qu'elle prévoit d'accomplir aujourd'hui et des obstacles qu'elle rencontre. |
+| **Sprint Review** | 4 à 8 heures | À la fin du sprint | L'équipe Scrum présente le travail effectué pendant le sprint aux parties prenantes. | L'équipe de développement présente les fonctionnalités qu'elle a développées au cours du sprint. Les parties prenantes fournissent des commentaires et des suggestions. |
+| **Sprint Retrospective** | 3 à 4 heures | À la fin du sprint | L'équipe Scrum réfléchit à la façon d'améliorer son processus et ses produits. | L'équipe de développement discute de ce qui s'est bien passé pendant le sprint, de ce qui pourrait être amélioré et des changements qu'elle souhaite apporter pour le prochain sprint. |
+
+
 
 
 ## Session 5: Pratiques Agiles et Techniques de Gestion
