@@ -826,4 +826,4 @@ APMG International propose des examens en plusieurs langues, y compris le franç
 
 est une certification populaire dans le domaine de l'agilité à l'échelle. Le SAFe est un framework agile qui permet de mettre en œuvre des pratiques agiles dans les grandes organisations. Il existe différentes certifications SAFe, telles que SAFe Agilist (SA), SAFe Practitioner (SP), SAFe Scrum Master (SSM), SAFe Product Owner/Product Manager (POPM) et d'autres.
 
-**Le Scrum Institute :** propose des certifications Scrum, y compris la certification Scrum Master, la certification Scrum Product Owner et d'autres certifications liées à Scru
+**Le Scrum Institute :** propose des certifications Scrum, y compris la certification Scrum Master, la certification Scrum Product Owner et d'autres certifications liées à Scrum
