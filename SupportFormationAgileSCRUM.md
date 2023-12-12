@@ -4,8 +4,8 @@
 
 Formation sur 2 jours
 
-- **Date: [Indiquez la date de la formation]**
-- **Lieu: [Indiquez le lieu de la formation]**
+- **Date: du 13 au 14 Décembre 2023**
+- **Lieu: Siège de APM**
 
 ## Plan de Formation
 
@@ -287,6 +287,15 @@ Ignorer les rétroactions des démonstrations de produit ou ne pas apporter d'aj
 
 ### 6 Principes de SCRUM:
 
+Voici les 6 principes qui sous-tendent la méthodologie Scrum :
+
+- Processus empirique
+- Auto-organisation
+- Collaboration
+- Priorisation basée sur la valeur
+- Délimité dans le temps(Time boxing)
+- Développement itératif
+
 **Empirisme: Management visuel ?**
 
 L'empirisme implique de prendre des décisions basées sur l'expérience et l'observation directe. Il s'agit de tirer des leçons des succès et des échecs passés pour orienter les décisions futures.
@@ -311,6 +320,23 @@ La collaboration est au cœur de SCRUM. Cela signifie favoriser une communicatio
 **Pourquoi faire ? Pour éviter :**
 
 Le manque de communication sur les dépendances entre les équipes ou avec les parties prenantes peut entraîner des retards dans le projet. Les conflits non résolus et le manque de collaboration peuvent compromettre la qualité du produit, conduisant ainsi à l'insatisfaction du client.
+
+
+| Principe | Description | Exemple |
+|---|---|---|
+| **Processus empirique** | Scrum est un processus itératif et incrémental qui permet à l'équipe de s'adapter aux changements au fil du temps. | L'équipe Scrum tient des réunions quotidiennes pour discuter de son progrès et identifier les obstacles. |
+| **Auto-organisation** | L'équipe Scrum est responsable de son propre travail et de son propre processus. | L'équipe de développement décide comment elle va réaliser l'objectif du Sprint. |
+| **Collaboration** | Scrum encourage la collaboration entre les différents membres de l'équipe et les parties prenantes. | Le Product Owner travaille en étroite collaboration avec l'équipe de développement pour définir les exigences du produit. |
+| **Priorisation basée sur la valeur** | L'équipe Scrum se concentre sur la création de valeur pour les utilisateurs et les clients. | Le Product Owner priorise le Product Backlog en fonction de la valeur qu'il apportera aux utilisateurs. |
+| **Délimité dans le temps** | Scrum utilise des sprints de durée fixe pour découper le travail en petits incréments. | Les sprints Scrum durent généralement deux semaines. |
+| **Développement itératif** | Scrum utilise un processus itératif pour livrer des produits de haute qualité. | L'équipe Scrum développe le produit par incréments, chaque incrément étant livré au client pour examen et feedback. |
+
+**Comment ces principes fonctionnent ensemble**
+
+Les six principes de Scrum sont interdépendants. Par exemple, le processus empirique permet à l'équipe de s'adapter aux changements, ce qui est nécessaire pour la collaboration et la priorisation basée sur la valeur. L'auto-organisation est nécessaire pour le développement itératif, car l'équipe doit être capable de s'adapter rapidement aux changements.
+
+En combinant ces principes, Scrum fournit un cadre solide pour la gestion de projets agiles.
+
 
 **Résumé :**
 
