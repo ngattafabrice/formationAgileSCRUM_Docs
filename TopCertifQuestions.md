@@ -78,6 +78,40 @@ The questions can be tricky .Read the questions well and think before answering.
 
 By using this site you are agreeing to the Privacy Policy and Terms of Service
 
+##  Thèmes
+
+**Understanding and Applying Scrum** 
+  - Empiricism
+  - Scrum Values
+  - Scrum Team
+  - Scrum Events
+  - Scrum Artifacts
+  - Sprint Goal
+  - Done
+  - Scaling Scrum
+
+**Developing People and Teams**
+   - Facilitation
+   - Leadership Styles
+   - Coaching and Mentoring
+
+**Managing Products with Agility**
+
+  - Forecasting and Release Planning
+  - Product Vision
+  - Product Value
+  - Product Backlog Management
+
+**Developing and Delivering Products Professionally**
+
+  - Emergent Software Development
+  - Managing Technical Risk
+  - Optimizing Flow
+
+**Evolving the Agile Organization**
+
+Organizational Design and Culture
+Evidence-Based Management
 ## Top des Sujets
 
 - Facilitation
