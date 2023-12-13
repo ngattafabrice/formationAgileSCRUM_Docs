@@ -3,26 +3,30 @@
 **Understanding and Applying Scrum:**
 
 Questions :
-Quels sont les trois rôles principaux dans Scrum, et quelles sont leurs responsabilités respectives ?
-En quoi consiste le Sprint Review, et pourquoi est-il important dans Scrum ?
-Comment le Product Owner collabore-t-il avec l'équipe de développement pendant un sprint ?
-Qu'est-ce que le "Definition of Done" et comment est-il utilisé dans le cadre de Scrum ?
-Quel est l'objectif principal de la réunion quotidienne de Scrum, le Daily Scrum ?
-Quelle est la différence entre une User Story et une tâche dans le contexte de Scrum ?
-Pourquoi la transparence est-elle importante dans Scrum, et comment est-elle assurée ?
-Quelles sont les principales responsabilités de l'équipe de développement dans Scrum ?
-Comment le Scrum Master peut-il aider à résoudre les conflits au sein de l'équipe ?
-Quelle est la différence entre un Product Backlog et un Sprint Backlog dans Scrum ?
-Comment la complexité est-elle gérée lors de l'estimation des User Stories ?
-Quels sont les avantages d'utiliser des burndown charts dans Scrum ?
-Comment le Scrum Master peut-il encourager une culture d'amélioration continue au sein de l'équipe ?
-En quoi consiste la planification de la release dans Scrum ?
-Quel est le rôle du Scrum Master lors d'une rétrospective ?
-Comment les obstacles identifiés lors du Daily Scrum sont-ils gérés dans Scrum ?
-Quelle est la différence entre un impediment et un risque dans Scrum ?
-Pourquoi est-il important d'avoir une definition of ready (DoR) dans Scrum ?
-Comment le Product Owner priorise-t-il les items du Product Backlog ?
-En quoi consiste le rôle du Scrum Master en tant que servant-leader ?
+
+- Quels sont les trois rôles principaux dans Scrum, et quelles sont leurs responsabilités respectives ?
+  
+- En quoi consiste le Sprint Review, et pourquoi est-il important dans Scrum ?
+  
+- Comment le Product Owner collabore-t-il avec l'équipe de développement pendant un sprint ?
+  
+- Qu'est-ce que le "Definition of Done" et comment est-il utilisé dans le cadre de Scrum ?
+- Quel est l'objectif principal de la réunion quotidienne de Scrum, le Daily Scrum ?
+- Quelle est la différence entre une User Story et une tâche dans le contexte de Scrum ?
+- Pourquoi la transparence est-elle importante dans Scrum, et comment est-elle assurée ?
+- Quelles sont les principales responsabilités de l'équipe de développement dans Scrum ?
+- Comment le Scrum Master peut-il aider à résoudre les conflits au sein de l'équipe ?
+- Quelle est la différence entre un Product Backlog et un Sprint Backlog dans Scrum ?
+- Comment la complexité est-elle gérée lors de l'estimation des User Stories ?
+- Quels sont les avantages d'utiliser des burndown charts dans Scrum ?
+- Comment le Scrum Master peut-il encourager une culture d'amélioration continue au sein de l'équipe ?
+- En quoi consiste la planification de la release dans Scrum ?
+- Quel est le rôle du Scrum Master lors d'une rétrospective ?
+- Comment les obstacles identifiés lors du Daily Scrum sont-ils gérés dans Scrum ?
+- Quelle est la différence entre un impediment et un risque dans Scrum ?
+- Pourquoi est-il important d'avoir une definition of ready (DoR) dans Scrum ?
+- Comment le Product Owner priorise-t-il les items du Product Backlog ?
+- En quoi consiste le rôle du Scrum Master en tant que servant-leader ?
 
 **Developing People and Teams:**
 
