@@ -1,3 +1,99 @@
+## REX
+
+- https://www.scrum.org/forum/scrum-forum/14855/my-experience-pass-psm1-mark-938
+
+  **Mohannad Alkhalili**
+  
+ 08:51 pm February 1, 2018
+ 
+Hello all,
+
+I passed my test before 3 hours! and liked to share it with you guys.
+
+First, I studied the scrum master guide one time and did the test but I failed with mark 77%. Then I wen through this forum and changed my studying strategy. BIG thx to all people active here.
+
+I studied the guide 3 times making sure to understand every single line, writing my notes, summarize the whole material on 3 pages. 
+
+Then, I did the following tests many times until I'm getting above 95% every time.
+
+- http://mlapshin.com/index.php/scrum-quizzes/psm-learning-mode/
+
+- http://jaganinfo.com/blog/professional-scrum-master-exam-questions-answers-psm1/
+
+- http://www.testsahoy.com/it-certification/agile-and-scrum/mock-tests-for-scrum-(psm)
+
+ 
+
+I hope this will help :)
+
+**Sivashankar Olapalayam Balasubramanaim**
+
+ 02:55 pm February 14, 2020
+Hello,
+
+Putting my suggestions below  to pass the Professional Scrum Master I (PSM I) assessment from Scrum.org
+
+I'm part of scrum development team earlier and now I'm working  with 3 scrum  teams . This experience gives me confidence on taking up the exam. Along with that  I have 
+
+ 
+
+Gone through the Scrum Guide 10 times, line by line and understand the meaning for each of the point.
+Scrum Glossary - I say it's must go through it
+Scrum Open Assessment - I did 14 times until I get constant score 100%, keep track of timings
+Every day I read the Q & A in Scrum Forum, few questions appeared in the exam 
+Took open assessments in Mlapshin.com
+Note down the wrong questions, key points to remember in a separate sheet, revise its daily
+There are many open assessment available on the internet, Free and Paid, but be careful with the questions, personally I see a lot of questions which not fall under scrum.org theory
+
+ 
+
+**Exam Approach**
+
+ 
+
+Buy the exam in advance, it helped me to focus more on preparations
+Revise the key points daily and day of the exam
+Relax, take a deep breath  and start the exam
+I took exam in  my work place environment - To make sure power supply and internet back-ups available
+Note down the questions which you are not clear, and resist the answers after your completion
+Don't think previous questions and pass percentage while you focussing a new question
+Apply the scrum theory, strike off the answers which are irrelevant 
+Choose the closest answer(s) to the scenario
+Questions were tricky, so go with the closest answer
+I ended up to finish all the questions in 00:49:00
+Used next 10 mins to revisit my marked questions
+Changed a couple of answers
+Submit
+ 
+
+Thanks all for your inputs in the forum sections which helped to understand better 
+
+Ade Ogun
+ 01:38 pm October 14, 2020
+I passed the exam the first time .Tips :Practice open assessments till you get 100 percent consistently multiple times ,Have thorough understanding of the Scrum guide ,use practice resources and practice as much questions as you can .
+
+The questions can be tricky .Read the questions well and think before answering.Pay attention to what the questions say ,example :Pick  two answers or pick three answers .All the best !!!!!!You can do it ....
+
+ 
+
+By using this site you are agreeing to the Privacy Policy and Terms of Service
+
+## Top des Sujets
+
+- Facilitation
+- Artifacts
+- Self-Managing Teams
+- Scrum Team
+- Scrum Values
+- Done
+- Events
+- Empiricism
+- Coaching and Mentoring
+- Forecasting and Release Planning
+- Product Backlog Management
+- Stakeholders & Customers
+- Product Value
+
 ## TOP des Questions
 
 **Understanding and Applying Scrum:**
