@@ -94,6 +94,77 @@ By using this site you are agreeing to the Privacy Policy and Terms of Service
 - Stakeholders & Customers
 - Product Value
 
+Résumés Scrum en 13 Questions et Réponses avec Commentaires
+Facilitation
+
+Quel est le rôle d'un Facilitateur Scrum ?
+Guide l'équipe à travers les cérémonies et les événements Scrum.
+Assure le suivi du framework Scrum et maximise l'efficacité. Commentaire: Facilite la collaboration, la résolution des conflits et l'amélioration continue.
+Artifacts
+
+Quels sont les 3 principaux artefacts Scrum ?
+Product Backlog: Liste priorisée des fonctionnalités et des travaux.
+Sprint Backlog: Travaux sélectionnés pour le sprint en cours.
+Incrément: Produit potentiellement livrable à la fin de chaque sprint. Commentaire: Permettent la transparence, la concentration et la livraison continue de valeur.
+Self-Managing Teams
+
+Que signifie "auto-organisé" pour une équipe Scrum ?
+L'équipe planifie, organise et exécute son travail sans directives externes. Commentaire: Favorise l'autonomie, l'appropriation, la responsabilisation, l'engagement et la productivité.
+Scrum Team
+
+Quels sont les 3 rôles dans une équipe Scrum ?
+Product Owner: Possède la vision du produit et priorise le Product Backlog.
+Scrum Master: Facilite le processus Scrum et élimine les obstacles.
+Développement Team: Délivre le travail pendant chaque sprint. Commentaire: Collaboration étroite entre les rôles pour atteindre les objectifs du sprint.
+Scrum Values
+
+Quelles sont les 5 valeurs Scrum ?
+Engagement: L'équipe s'engage à atteindre les objectifs du sprint.
+Courage: L'équipe a le courage de relever les défis et de s'exprimer.
+Focus: L'équipe se concentre sur la livraison des éléments du Sprint Backlog.
+Openness: L'équipe est transparente et honnête les uns envers les autres.
+Respect: L'équipe se traite avec respect et compréhension. Commentaire: Ces valeurs sont la base d'une équipe Scrum saine et performante.
+Done
+
+Qu'est-ce qu'un incrément "Done" ?
+Potentiellement livrable, répond à tous les critères d'acceptation et est manifestement utile aux parties prenantes. Commentaire: Garantie de qualité, de fonctionnalité et de livraison de valeur à chaque sprint.
+Events
+
+Quels sont les 5 événements Scrum ?
+Sprint Planning: Planification du travail pour le sprint en cours.
+Daily Scrum: Synchronisation de l'équipe et identification des obstacles.
+Sprint Review: Démonstration de l'incrément du sprint aux parties prenantes et réception de feedback.
+Sprint Retrospective: Réflexion sur le sprint et identification des améliorations. Commentaire: Opportunités de planification, de collaboration, de feedback et d'amélioration continue.
+Empiricism
+
+Qu'est-ce que l'empirisme dans Scrum ?
+Prise de décisions basée sur des données, des observations et des expérimentations. Commentaire: Favorise la transparence, l'adaptabilité et l'apprentissage de l'expérience dans le processus Scrum.
+Coaching and Mentoring
+
+Comment le coaching et le mentoring impactent les équipes Scrum ?
+Développent les individus et l'efficacité de l'équipe grâce à l'orientation, le soutien et le feedback. Commentaire: Favorisent la croissance individuelle, l'amélioration de la dynamique d'équipe et le succès global de Scrum.
+Product Backlog Management
+
+Comment le Product Backlog est-il géré ?
+Le Product Owner le priorise et assure qu'il reflète les besoins et les priorités de valeur en évolution.
+L'équipe collabore pour estimer et affiner les éléments du backlog. Commentaire: Garantit la pertinence, la valeur et l'ordre du backlog pour une planification et une exécution efficaces du sprint.
+
+
+Stakeholders & Customers
+
+Comment les parties prenantes et les clients sont-ils impliqués dans Scrum ?
+Fournissent des commentaires et des informations sur le Product Backlog et l'incrément du sprint.
+Collaborent avec l'équipe pour comprendre leurs besoins et leurs priorités. Commentaire: Favorise la transparence, l'alignement et la garantie que le produit répond aux besoins de son public cible.
+Product Value
+
+Quel est l'objectif principal de Scrum ?
+Livrer un incrément de produit potentiellement livrable à la fin de chaque sprint. Commentaire: Met l'accent sur la livraison continue de valeur, la satisfaction du client et les commentaires précoces pour l'amélioration continue.
+Forecasting and Release Planning
+
+Comment Scrum aborde-t-il la planification et le lancement ?
+Basé sur les données historiques, la vitesse de l'équipe et les conditions actuelles, l'équipe prévoit les délais de livraison et planifie les lancements de manière itérative. Commentaire: Fournit une transparence sur les progrès, permet la prise de décision éclairée et prend en charge les plans de lancement itératifs et adaptables.
+
+
 ## TOP des Questions
 
 **Understanding and Applying Scrum:**
