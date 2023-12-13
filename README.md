@@ -20,3 +20,7 @@ formation Agile SCRUM Docs
 ## Test
 
 - https://www.scrum.org/open-assessments/scrum-open
+
+## Test /Achat
+
+- https://www.thescrummaster.co.uk/courses/ultimate-scrum-master-psm-i-practice-assessment/
