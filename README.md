@@ -16,3 +16,7 @@ formation Agile SCRUM Docs
 
 - https://www.thescrummaster.co.uk/wp-content/uploads/2022/05/TheSimpleGuideToScrum-1Pager-v1.02_French.pdf
 - https://www.thescrummaster.co.uk/wp-content/uploads/2021/03/TheSimpleGuideToScrum-1Pager.pdf
+
+## Test
+
+- https://www.scrum.org/open-assessments/scrum-open
