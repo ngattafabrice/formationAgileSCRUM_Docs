@@ -111,8 +111,8 @@ By using this site you are agreeing to the Privacy Policy and Terms of Service
 
 **Evolving the Agile Organization**
 
-Organizational Design and Culture
-Evidence-Based Management
+  - Organizational Design and Culture
+  - Evidence-Based Management
 
 ## Comprendre et appliquer Scrum
 
