@@ -78,7 +78,13 @@ The questions can be tricky .Read the questions well and think before answering.
 
 By using this site you are agreeing to the Privacy Policy and Terms of Service
 
+## Scrum Master Learning Path 
 
+* https://www.scrum.org/pathway/scrum-master/evolving-the-agile-organization/organizational-design-and-culture
+  
+As described in the Scrum Guide, the Scrum Master is responsible for promoting and supporting Scrum. Scrum Masters do this by helping everyone understand Scrum theory, practices, rules, and values. This Scrum Master learning path provides a structured guide to help you understand the role of the Scrum Master with a way to continue learning on your journey as a Scrum Master.  
+
+The learning path is organized by a set of Professional Scrum Competencies which each contain a number of focus areas. Resources are laid out in a prescribed order, however it is your journey, so follow in the best way that helps you learn.
 ##  Thèmes
 
 **Understanding and Applying Scrum** 
