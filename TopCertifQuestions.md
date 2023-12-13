@@ -112,9 +112,12 @@ Quelles sont les pratiques recommandées pour encourager une mentalité agile au
 
 ## Les Réponses
 
-Understanding and Applying Scrum:
+**Understanding and Applying Scrum:**
+
 Réponses :
-Les trois rôles principaux dans Scrum sont le Product Owner, le Scrum Master et l'équipe de développement. Le Product Owner est responsable de maximiser la valeur du produit, le Scrum Master facilite le processus Scrum, et l'équipe de développement réalise le travail.
+Les trois rôles principaux dans Scrum sont le Product Owner, le Scrum Master et l'équipe de développement. 
+
+Le Product Owner est responsable de maximiser la valeur du produit, le Scrum Master facilite le processus Scrum, et l'équipe de développement réalise le travail.
 
 Le Sprint Review est une réunion à la fin de chaque sprint où l'équipe présente ce qui a été accompli et recueille les commentaires des parties prenantes. Il est important pour assurer la transparence et la collaboration.
 
@@ -154,7 +157,8 @@ Le Product Owner priorise les items du Product Backlog en fonction de la valeur 
 
 Le Scrum Master agit en tant que servant-leader en servant l'équipe et en veillant à ce qu'elle dispose des ressources nécessaires, tout en facilitant son auto-organisation et en la guidant vers l'efficacité.
 
-Developing People and Teams:
+**Developing People and Teams:**
+
 Réponses :
 Le Scrum Master peut soutenir la croissance professionnelle des membres de l'équipe en facilitant la formation, en encourageant la prise d'initiative et en créant un environnement propice à l'apprentissage.
 
@@ -196,7 +200,8 @@ La rétrospective contribue à l'amélioration continue en permettant à l'équi
 
 Les compétences essentielles pour un Product Owner réussi incluent la capacité à prioriser, à communiquer efficacement et à comprendre les besoins des utilisateurs.
 
-Managing Products with Agility:
+**Managing Products with Agility:**
+
 Réponses :
 Le Product Owner gère les changements de priorités en communiquant clairement avec l'équipe de développement et en évaluant l'impact sur le Sprint Backlog.
 
@@ -218,7 +223,8 @@ Le Product Owner peut garantir la satisfaction du client à long terme en écout
 
 La collaboration entre le Product Owner et le Scrum Master est cruciale pour s'assurer que les priorités du produit sont alignées sur les objectifs organisationnels et que le développement est efficace.
 
-Developing and Delivering Products Professionally:
+**Developing and Delivering Products Professionally:**
+
 Réponses :
 L'intégration continue implique la fusion régulière du code produit par les membres de l'équipe dans un référentiel partagé pour détecter et résoudre les conflits rapidement.
 
