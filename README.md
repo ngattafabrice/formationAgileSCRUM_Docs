@@ -21,6 +21,13 @@ formation Agile SCRUM Docs
 
 - https://www.scrum.org/open-assessments/scrum-open
 
+- https://mlapshin.com/index.php/scrum-quizzes/sm-real-mode/
+  
+- https://mlapshin.com/index.php/blog/scrum-questions/
+
+
+
+
 ## Test /Achat
 
 - https://www.thescrummaster.co.uk/courses/ultimate-scrum-master-psm-i-practice-assessment/
