@@ -8,6 +8,62 @@ As described in the Scrum Guide, the Scrum Master is responsible for promoting a
 
 The learning path is organized by a set of Professional Scrum Competencies which each contain a number of focus areas. Resources are laid out in a prescribed order, however it is your journey, so follow in the best way that helps you learn.
 
+## Scrum Guide
+
+* https://scrumguides.org/
+
+## Glossaire
+
+- https://www.thescrummaster.co.uk/scrum-glossary/
+  
+## How To Pass The Professional Scrum Master I (PSM I) Assessment From Scrum.org
+
+- https://www.thescrummaster.co.uk/scrum/how-to-pass-the-professional-scrum-master-i-psm-i-assessment/
+
+
+
+- https://www.scrum.org/pathway/scrum-master
+
+## REX
+
+- https://www.scrum.org/forum/scrum-forum/14855/my-experience-pass-psm1-mark-938
+
+  **Mohannad Alkhalili**
+  
+ 08:51 pm February 1, 2018
+ 
+Hello all,
+
+I passed my test before 3 hours! and liked to share it with you guys.
+
+First, I studied the scrum master guide one time and did the test but I failed with mark 77%. Then I wen through this forum and changed my studying strategy. BIG thx to all people active here.
+
+I studied the guide 3 times making sure to understand every single line, writing my notes, summarize the whole material on 3 pages. 
+
+Then, I did the following tests many times until I'm getting above 95% every time.
+
+
+- http://mlapshin.com/index.php/scrum-quizzes/psm-learning-mode/
+
+- http://jaganinfo.com/blog/professional-scrum-master-exam-questions-answers-psm1/
+
+- http://www.testsahoy.com/it-certification/agile-and-scrum/mock-tests-for-scrum-(psm)
+
+
+## Test
+
+- https://www.scrum.org/open-assessments/scrum-open
+
+
+- http://mlapshin.com/index.php/scrum-quizzes/psm-learning-mode/
+
+- http://jaganinfo.com/blog/professional-scrum-master-exam-questions-answers-psm1/
+
+- http://www.testsahoy.com/it-certification/agile-and-scrum/mock-tests-for-scrum-(psm)
+
+## Test /Achat
+
+- https://www.thescrummaster.co.uk/courses/ultimate-scrum-master-psm-i-practice-assessment/
 ##  Thèmes
 
 **Understanding and Applying Scrum** 
